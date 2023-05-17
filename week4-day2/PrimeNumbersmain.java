@@ -18,7 +18,7 @@ class CheckPrime
         }
       if(nf==2)
       {
-        System.out.println()
+        System.out.println();
       }
       
     }
